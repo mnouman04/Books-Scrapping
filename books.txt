@@ -1,0 +1,22 @@
+Book Title _ Price _ Image File
+-----------------------------------
+A Light in the Attic _ £51.77 _ A_Light_in_the_Attic.jpg
+Tipping the Velvet _ £53.74 _ Tipping_the_Velvet.jpg
+Soumission _ £50.10 _ Soumission.jpg
+Sharp Objects _ £47.82 _ Sharp_Objects.jpg
+Sapiens: A Brief History of Humankind _ £54.23 _ Sapiens__A_Brief_History_of_Humankind.jpg
+The Requiem Red _ £22.65 _ The_Requiem_Red.jpg
+The Dirty Little Secrets of Getting Your Dream Job _ £33.34 _ The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job.jpg
+The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull _ £17.93 _ The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull.jpg
+The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics _ £22.60 _ The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics.jpg
+The Black Maria _ £52.15 _ The_Black_Maria.jpg
+Starving Hearts (Triangular Trade Trilogy, #1) _ £13.99 _ Starving_Hearts__Triangular_Trade_Trilogy___1_.jpg
+Shakespeare's Sonnets _ £20.66 _ Shakespeare_s_Sonnets.jpg
+Set Me Free _ £17.46 _ Set_Me_Free.jpg
+Scott Pilgrim's Precious Little Life (Scott Pilgrim #1) _ £52.29 _ Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_.jpg
+Rip it Up and Start Again _ £35.02 _ Rip_it_Up_and_Start_Again.jpg
+Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991 _ £57.25 _ Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981_1991.jpg
+Olio _ £23.88 _ Olio.jpg
+Mesaerion: The Best Science Fiction Stories 1800-1849 _ £37.59 _ Mesaerion__The_Best_Science_Fiction_Stories_1800_1849.jpg
+Libertarianism for Beginners _ £51.33 _ Libertarianism_for_Beginners.jpg
+It's Only the Himalayas _ £45.17 _ It_s_Only_the_Himalayas.jpg
