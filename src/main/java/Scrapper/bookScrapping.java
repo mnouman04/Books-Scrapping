@@ -12,7 +12,7 @@ import java.io.IOException;
 public class bookScrapping {
     public static void main(String[] args) {
         String url = "https://books.toscrape.com/";
-        String filePath = "E:\\programing\\Data Science\\Scrapping Java\\Book Scrapping Results\\books.txt";
+        String filePath = "E:\\programing\\Data Science\\Scrapping Java\\Book Scrapping Results\\books.txt";//you can replace your preferred file path
 
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(filePath))) {
             Document document = Jsoup.connect(url).get();
@@ -30,7 +30,7 @@ public class bookScrapping {
                 writer.write(title + " _ " + price + "\n");
             }
 
-            System.out.println("\nScraped data saved to " + filePath);
+            System.out.println("Scraped data saved to " + filePath);
         } catch (IOException e) {
             e.printStackTrace();
         }
